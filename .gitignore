@@ -1,0 +1,17 @@
+# venv & jupyter notebook folders
+.ipynb_checkpoints/
+bin
+include
+flagged
+etc
+lib
+share
+.env
+pyvenv.cfg
+
+# User files/folders
+res
+scratch*
+
+#MacOS
+.DS_Store
